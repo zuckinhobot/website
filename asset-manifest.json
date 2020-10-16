@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gdutra.dev/static/css/main.5f361e03.chunk.css",
+    "main.js": "/gdutra.dev/static/js/main.b99a7922.chunk.js",
+    "main.js.map": "/gdutra.dev/static/js/main.b99a7922.chunk.js.map",
+    "runtime-main.js": "/gdutra.dev/static/js/runtime-main.52807c34.js",
+    "runtime-main.js.map": "/gdutra.dev/static/js/runtime-main.52807c34.js.map",
+    "static/js/2.fa97dc6e.chunk.js": "/gdutra.dev/static/js/2.fa97dc6e.chunk.js",
+    "static/js/2.fa97dc6e.chunk.js.map": "/gdutra.dev/static/js/2.fa97dc6e.chunk.js.map",
+    "index.html": "/gdutra.dev/index.html",
+    "precache-manifest.8414860ed1f8569325d292f91417503a.js": "/gdutra.dev/precache-manifest.8414860ed1f8569325d292f91417503a.js",
+    "service-worker.js": "/gdutra.dev/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/gdutra.dev/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fa97dc6e.chunk.js.LICENSE.txt": "/gdutra.dev/static/js/2.fa97dc6e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gdutra.dev/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52807c34.js",
+    "static/js/2.fa97dc6e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b99a7922.chunk.js"
+  ]
+}
